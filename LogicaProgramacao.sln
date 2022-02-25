@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Casting", "Casting\Casting.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EentradaDeDados", "EentradaDeDados\EentradaDeDados.csproj", "{74F17E0E-58DD-47ED-B06B-0F3A7685D3C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioDeFixacao01", "ExercicioDeFixacao01\ExercicioDeFixacao01.csproj", "{9758CD0E-8337-4FB6-81C0-0E0FACC7BBA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{74F17E0E-58DD-47ED-B06B-0F3A7685D3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74F17E0E-58DD-47ED-B06B-0F3A7685D3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74F17E0E-58DD-47ED-B06B-0F3A7685D3C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9758CD0E-8337-4FB6-81C0-0E0FACC7BBA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9758CD0E-8337-4FB6-81C0-0E0FACC7BBA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9758CD0E-8337-4FB6-81C0-0E0FACC7BBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9758CD0E-8337-4FB6-81C0-0E0FACC7BBA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
