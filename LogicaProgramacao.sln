@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variaveis", "Variaveis\Vari
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaidadeDados", "SaidadeDados\SaidadeDados.csproj", "{03997FF1-3F5C-4732-8DC0-813EDB924986}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casting", "Casting\Casting.csproj", "{75143722-C08F-4E16-8A3E-7E4CD388CA4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{03997FF1-3F5C-4732-8DC0-813EDB924986}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03997FF1-3F5C-4732-8DC0-813EDB924986}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03997FF1-3F5C-4732-8DC0-813EDB924986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75143722-C08F-4E16-8A3E-7E4CD388CA4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75143722-C08F-4E16-8A3E-7E4CD388CA4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75143722-C08F-4E16-8A3E-7E4CD388CA4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75143722-C08F-4E16-8A3E-7E4CD388CA4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
